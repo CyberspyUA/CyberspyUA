@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <b>
+  <a href="https://github.com/CyberspyUA">
     Nikita Struk</a>
+  </b>
 </p>
 
 <p align="center">
   <!-- Typing SVG by CyberspyUA - https://github.com/CyberspyUA/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <b>
     Junior Game Developer
-   </a>
+    </b>
 </p>
