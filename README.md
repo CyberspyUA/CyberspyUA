@@ -43,22 +43,22 @@ Here are some ideas to get you started:
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="50" width="50" />
 
 </p>
-<h2 align="left"padding-top = 25px padding-bottom = 25px>Version control systems (VCS):</h2>
-<p align="center" padding-top = 50px padding-bottom = 50px>
+<h2 align="left">Version control systems (VCS):</h2>
+<p align="center">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="50" width="50" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="50" width="50" />
 </p>
 <h2 align="left">Computer graphic tools:</h2>
-<p align="center" padding-top = 50px padding-bottom = 50px>
+<p align="center" >
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="devicon" height="50" width="50" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="50" width="50" />
 </p>
 <h2 align="left">IDE's:</h2>
-<p align="center" padding-top = 50px padding-bottom = 50px>
+<p align="center">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="devicon" height="50" width="50" />
 </p>
 <h2 align="left">Game engines:</h2>
-<p align="center" padding-top = 50px padding-bottom = 50px>
+<p align="center">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="devicon" height="50" width="50" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="devicon" height="50" width="50" />
 
