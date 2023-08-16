@@ -1,5 +1,16 @@
-### Hi there 👋
+<h1 align="center" color = "black">
+  <b>
+  <a href="https://github.com/CyberspyUA">
+    Nikita Struk</a>
+  </b>
+</h1>
 
+<h1 align="center">
+  <!-- Typing SVG by CyberspyUA - https://github.com/CyberspyUA/readme-typing-svg -->
+   <b>
+    Junior Game Developer
+    </b>
+</h1>
 <!--
 **CyberspyUA/CyberspyUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,27 +31,35 @@ Here are some ideas to get you started:
 
 👷 Currently, I am developing games and computer graphics projects  
 🌱 Learning, exploring, and improving every day  
-<p align="center">
-  <b>
-  <a href="https://github.com/CyberspyUA">
-    Nikita Struk</a>
-  </b>
-</p>
 
-<p align="center">
-  <!-- Typing SVG by CyberspyUA - https://github.com/CyberspyUA/readme-typing-svg -->
-   <b>
-    Junior Game Developer
-    </b>
-</p>
 <h1 align = "center">Technologies that I operate</h1>
 <h2 align="left">Programming languages:</h2>
 
 <p align="center">
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="devicon" height="40" width="40" />
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="40" width="40" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="devicon" height="40" width="40" />
-    	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="40" width="40" />
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="40" width="40" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="40" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="devicon" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="50" width="50" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="devicon" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="50" width="50" />
+
+</p>
+<h2 align="left"padding-top = 25px padding-bottom = 25px>Version control systems (VCS):</h2>
+<p align="center" padding-top = 50px padding-bottom = 50px>
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="50" width="50" />
+</p>
+<h2 align="left">Computer graphic tools:</h2>
+<p align="center" padding-top = 50px padding-bottom = 50px>
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="devicon" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="50" width="50" />
+</p>
+<h2 align="left">IDE's:</h2>
+<p align="center" padding-top = 50px padding-bottom = 50px>
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="devicon" height="50" width="50" />
+</p>
+<h2 align="left">Game engines:</h2>
+<p align="center" padding-top = 50px padding-bottom = 50px>
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="devicon" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="devicon" height="50" width="50" />
+
 </p>
