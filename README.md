@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 4rd Year Software Engineering Student at National University "Odessa Law Academy"
+🌐 Junior Game Developer  
+🔭 Exploring the Magic of ML 
+
+👷 Currently, I am developing games and computer graphics projects  
+🌱 Learning, exploring, and improving every day  
 <p align="center">
   <b>
   <a href="https://github.com/CyberspyUA">
@@ -26,4 +32,15 @@ Here are some ideas to get you started:
    <b>
     Junior Game Developer
     </b>
+</p>
+<h1 align = "center">Technologies that I operate</h1>
+<h2 align="left">Programming languages:</h2>
+
+<p align="center">
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="devicon" height="40" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="40" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="devicon" height="40" width="40" />
+    	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="40" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="40" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="40" width="40" />
 </p>
