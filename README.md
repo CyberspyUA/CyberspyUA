@@ -11,6 +11,8 @@
 🔭 Exploring the Magic of game engines and computer graphic pipelines 
 
 👷 Currently, I am developing games and computer graphics projects
+
+<img align="center" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://www.codewars.com/users/CyberspyUA/badges/large)" alt="profileprogress"/>
 <!--
 **CyberspyUA/CyberspyUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
