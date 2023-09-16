@@ -52,16 +52,4 @@
                 srcset="https://github-readme-stats.vercel.app/api?username=CyberspyUA&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                 <img src="https://github-readme-stats.vercel.app/api?username=CyberspyUA&show_icons=true" />
         </div>
-        <h3 align = "center">Techologies used in repos</h3>
-        <div align ="center">
-                <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberspyUA&layout=compact&theme=light&hide_border=true" /></a> 
-        </div>
-        <h3 align = "center">Wakatime statistics</h3>
-        <div align ="center">
-        <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=CyberspyUA\&layout=compact&v=2">
-        </div>
-        <h3 align = "center">Coding practice</h3>
-        <div align = "center">
-        <p align="center"> <img align="center" src="https://www.codewars.com/users/CyberspyUA/badges/large" alt="profile_progress" height = "50" width = "300" /></p>
-        </div>
 </picture>
