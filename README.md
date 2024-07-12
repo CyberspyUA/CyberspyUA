@@ -7,7 +7,7 @@
 
 - 🌐 Junior Game Developer
 
-- 🎓 4rd Year Software Engineering Student at **National University "Odessa Law Academy"**
+- 🎓 Completed Software Engineering at **National University "Odessa Law Academy"** with honours
 
 - 🔭 Exploring the Magic of **game engines** and **computer graphic pipelines**
 
