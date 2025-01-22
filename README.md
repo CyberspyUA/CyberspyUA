@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Nikita Struk</h1>
-<h3 align="center">✨A passionate and inquisitive game developer from Ukraine✨</h3>
+<h3 align="center">✨A passionate and inquisitive software engineer from Ukraine✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberspyua&label=Profile%20views&color=0e75b6&style=flat" alt="cyberspyua" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberspyua" alt="cyberspyua" /></a> </p>
 
-- 🌐 Junior Game Developer
+- 🌐 Software Engineer
 
-- 🎓 4rd Year Software Engineering Student at **National University "Odessa Law Academy"**
+- 🧑‍🎓 Completed Bachelors of Software Engineering at **National University "Odessa Law Academy"** with honours
 
-- 🔭 Exploring the Magic of **game engines** and **computer graphic pipelines**
+- 🎓 1st Masters Year Computer Science Student at **National University "Odessa Law Academy"**
 
-- 👷 Currently, I am developing **games** and **computer graphics projects**
+- 🔭 Exploring the Magic of **AI**, **Embedded engineering**, **game engines** and **computer graphic pipelines**
 
-- 💬 Ask me about **C++, Python**
+- 👷 Currently, I am developing **AI-powered apps** and **games**
+
+- 💬 Ask me about **C, C++, Python3 and SQL**
 
 - 📫 How to reach me **nikita.struk.softdev@gmail.com**
 
-- ⚡ Fun fact **I'm studying software engineering for 4 years**
+- ⚡ Fun fact **😻 I love cats. 😻**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
