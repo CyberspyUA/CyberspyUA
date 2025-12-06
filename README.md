@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nikita Struk</h1>
-<h3 align="center">✨A passionate and inquisitive software engineer from Ukraine✨</h3>
+<h3 align="center">✨A passionate and inquisitive software and AI engineer✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberspyua&label=Profile%20views&color=0e75b6&style=flat" alt="cyberspyua" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberspyua" alt="cyberspyua" /></a> </p>
 
-- 🌐 Software Engineer
+- 🌐 Software and AI Engineer
 
-- 🧑‍🎓 Completed Bachelors of Software Engineering at **National University "Odessa Law Academy"** with honours
+- 🧑‍🎓 Completed Bachelors of Software Engineering at **National University "Odessa Law Academy"** with honours;
 
-- 🎓 2nd Masters Year Computer Science Student at **National University "Odessa Law Academy"**
+- 🎓 Completed Masters of Computer Science at **National University "Odessa Law Academy"** with honours;
 
-- 🔭 Exploring the Magic of **AI**, **Embedded engineering**, **Game development**, **Game engines** and **computer graphic pipelines**
+- 🔭 Exploring the Magic of **AI**, **Embedded engineering**, **Game development**, **Game engines** and **computer graphic pipelines**;
 
-- 👷 Currently, I am developing **AI models**, **Cross-platform apps**, **Game engines** and **games**
+- 👷 Currently, I am developing **AI models**, **Cross-platform apps**, **Game engines** and **Games**;
 
-- 💬 Ask me about **C, C++, Python3 and SQL**
+- 💬 Ask me about **C, C++, Python3 and SQL**;
 
-- 📫 How to reach me **nikita.struk.softdev@gmail.com**
+- 📫 How to reach me **nikita.struk.softdev@gmail.com**;
 
 - ⚡ Fun fact **😻 I love cats. 😻**
 
