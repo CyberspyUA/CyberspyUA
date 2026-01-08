@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=cyberspyua&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Metrics](https://github.com/cyberspyua/cyberspyua/blob/main/github-metrics.svg)
+<p align="left">
+  <img src="https://github.com/cyberspyua/cyberspyua/raw/main/github-metrics.svg" alt="Trophies" width="100%" />
+</p>
 
 - 🌐 Software and AI Engineer
 
