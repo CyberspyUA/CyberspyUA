@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule updates (daily)
   schedule: [{cron: "0 0 * * *"}]
-  # (Optional) Run workflow manually
+  # Allow manual trigger
   workflow_dispatch:
-  # (Optional) Run workflow when pushing on master/main
+  # Trigger on push to main branch
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,15 +14,15 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # using the secret name you confirmed
-          token: ${{ secrets.Cyberspy_Profile_Trophies }}
+          # We use the standard name we just created in Step 1
+          token: ${{ secrets.METRICS_TOKEN }}
           user: cyberspyua
           template: classic
           
-          # Disable the standard stats/header so only trophies show
+          # Empty base to hide the big stats card
           base: ""
           
-          # Trophies Plugin Settings
+          # Trophies Plugin Configuration
           plugin_trophies: yes
           plugin_trophies_display: compact 
           plugin_trophies_secrets: yes
