@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nikita Struk</h1>
+<h1 align="center">Greetings 👋, I'm Nikita Struk</h1>
 <h3 align="center">✨A passionate and inquisitive software and AI engineer✨</h3>
 
 - 🌐 Software and AI Engineer
 
-- 🧑‍🎓 Completed Bachelors of Software Engineering at **National University "Odessa Law Academy"** with honours;
+- 🧑‍🎓 Completed both Bachelor's of Software Engineering and Master's of Computer Science at **National University "Odessa Law Academy"** with honors;
 
-- 🎓 Completed Masters of Computer Science at **National University "Odessa Law Academy"** with honours;
-
-- 🔭 Exploring the Magic of **AI**, **Embedded engineering**, **Game development**, **Game engines** and **computer graphic pipelines**;
+- 🔭 Exploring the Magic of **AI**, **Embedded engineering**, **IOT** and **Simulators**;
 
 - 💬 Ask me about **C, C++, Python**
 
